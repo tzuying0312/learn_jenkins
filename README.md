@@ -4,10 +4,8 @@
 - [概述](#概述)
 - [用 Docker 安裝 Jenkins](#用-Docker-安裝-Jenkins)
 - [建立 Jenkins 作業](#建立-Jenkins-作業)
-  * [在 CircleCI 中新增環境變數](#在-CircleCI-中新增環境變數)
-  * [修改本機端的專案](#修改本機端的專案)
 - [連結 Github webhook 完成 CI 流程](#連結-Github-webhook-完成-CI-流程)
-  * [將-Jenkins-連結至外部網址](#將-Jenkins-連結至外部網址)
+  * [將 Jenkins 連結至外部網址](#將-Jenkins-連結至外部網址)
   * [在 Github 中建立 Webhook](#在-Github-中建立-Webhook)
 - [參考資料](#參考資料)
 
